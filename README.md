@@ -13,6 +13,12 @@ $> go get -u -v \
 	github.com/golang/lint/golint
 ```
 
+## Content
+
+- [Go beginner](https://github.com/sbinet/ji-go-2016)
+- [Go advanced](https://github.com/sbinet/ji-go-adv-2016)
+- [Go official tour](https://tour.golang.org)
+
 ## Tools
 
 ### go get
