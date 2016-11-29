@@ -15,6 +15,18 @@ $> go get -u -v \
 
 ## Tools
 
+### go get
+
+### gofmt
+
+### goimport
+
+### go vet, golint
+
+### go test
+
+### go {get,test} -race
+
 ### gorename
 
 ### guru
