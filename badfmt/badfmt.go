@@ -20,8 +20,8 @@ func Bad(x,y,z float64)   float64{
 return x+y   +
 z;}
 
-func printf(format string,args ...interface{}){fmt.Printf(format,args...)}
-func write(w io.Writer,  data[]byte)(int,error){
+func myPrintf(format string,args ...interface{}){fmt.Printf(format,args...)}
+func myWrite(w io.Writer,  data[]byte)(int,error){
 	return w.Write(data,
 )}
 
